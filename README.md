@@ -6,16 +6,16 @@
 <h2>Erstellen eines neuen Projekts und Anzeigen einer Projektliste und bearbeiten der Projektangaben</h2>
 
 <h2>Dateien:</h2>
-<i>db_login.inc</i> - Logindatei <br>
-<i>Komplexe Uebung PR3.php</i> - Hauptprogramm
-<i>save.php</i> - Programm zum Speichern
-<i>projektliste.php</i> - Abruf der Projekte und Anzeige in einer Tabelle
-<i>projektupdate.php</i> - Programm zum Bearbeiten der vorhandenen Projekte
+db_login.inc - Logindatei <br>
+Komplexe Uebung PR3.php - Hauptprogramm <br>
+save.php - Programm zum Speichern <br>
+projektliste.php - Abruf der Projekte und Anzeige in einer Tabelle <br>
+projektupdate.php - Programm zum Bearbeiten der vorhandenen Projekte <br>
 
 <h2>Datenbank:</h2>
-<i>Datenbankname:</i> "projekt" <br>
-<i>Username:</i> "root" <br>
-<i>Passwort:</i> "" <br>
+Datenbankname: "projekt" <br>
+Username: "root" <br>
+Passwort: "" <br>
 
 <h2>Verwendete Programme:</h2>
 Visual Studio Code<br>
